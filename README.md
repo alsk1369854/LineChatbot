@@ -1,8 +1,8 @@
 # Line Chatbot
 
 <p align="center">
-    <img height="400px" src="https://raw.githubusercontent.com/alsk1369854/LineChatbot/master/images/demo_1"/>
-    <img height="400px" src="https://raw.githubusercontent.com/alsk1369854/LineChatbot/master/images/demo_2"/>
+    <img height="400px" src="https://raw.githubusercontent.com/alsk1369854/LineChatbot/master/images/demo_1.jpg"/>
+    <img height="400px" src="https://raw.githubusercontent.com/alsk1369854/LineChatbot/master/images/demo_2.jpg"/>
 </p>
 
 <br/>
